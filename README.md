@@ -1,4 +1,4 @@
-# Airline Windows Form App With Database
+# Airline Registration System Windows Form App With Database
 
 ### Ahmet Bahadır Aksakal
 
@@ -12,6 +12,8 @@
 ****
 
 #### [EN]
+
+# Airline-Registration-System
 
 ##### Note: This project is an assignment that must be completed within 6 hours. Therefore, there are many deficiencies. Evaluate the project this way.
 
@@ -48,10 +50,6 @@
 #### [TR]
 
 # Hava-Yolu-Kayit-Sistemi
-
-### Ahmet Bahadır Aksakal
-
-#### 20360859079
 
 ##### Not: Bu proje 6 saat içinde yetişmesi gereken bir ödevdir. Bu nedenle bir çok eksik bulunmaktadır. Projeyi bu şekilde değerlendiriniz.
 
