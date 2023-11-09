@@ -17,9 +17,10 @@
 
 1. ### Technology and Languages Used in the Project:
     
-     *C#
+     * C#
      * .Net
-     *VisualStudio
+     * VisualStudio
+     * SQL
 
 2. ### Introduction:
     
