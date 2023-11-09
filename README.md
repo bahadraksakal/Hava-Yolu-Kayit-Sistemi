@@ -58,16 +58,20 @@
     *   C#
     *   .Net
     *   Visual Studio
+    *   SQL
+
 2.  ### Tanıtım:
     
     *   Bu proje bir yolcu kayıt sistemidir
     *   Sisteme önceden tanımlanmış veriler ile bir yolcuyu kayıt edip ona bilet aldığınız bir windows form uygulaması tasarlanmıştır
     *   Sisteme eklenecek veriler veritabanına manuel olarak eklenmelidir
     *   Projede bir çok eksik bulunmaktadır, projeyi yapmak için sadece 6 saatim vardı mecbur böyle bir şey ortaya çıktı :)
+
 3.  ### Kurulum ve Çalıştırma:
     
     *   mysql veritabanınızda, "havayoludb.sql" dosyası içerisindeki sql kodunu çalıştırın, veritabanınızın oluştuğundan emin olun.
     *   .sln uzantılı dosyayı açın (Visual Studio kullanmanız önerilir) ve çalıştırın. Uygulanamanız hazır.
+
 4.  ### Programdan Görseller:
     
     *   ![](gorseller/1.png)
